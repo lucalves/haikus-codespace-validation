@@ -1,5 +1,9 @@
 [
     {
+        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
+        "image": "Robotocat.jpeg"
+    },
+    {
         "text": "hey! it is raining in seattle,\ndon't forget an umbrella,\nor it will be gloom",
         "image": "puddle_jumper_octodex.jpg"
     },
@@ -10,10 +14,6 @@
     {
         "text": "snow is still falling,\nis it time for apres yet?\nlet's do one more run",
         "image": "snowtocat_final.jpg"
-    },
-    {
-        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
-        "image": "Robotocat.jpeg"
     },
     {
         "text": "same plot as before,\nso why is it still awesome?\ni think it's the hat",
